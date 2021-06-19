@@ -168,6 +168,10 @@
                 </exclusion>
             </exclusions>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.security.oauth</groupId>
+            <artifactId>spring-security-oauth2</artifactId>
+        </dependency>
         <!-- == End TERASOLUNA == -->
 
         <!-- == Begin Thymeleaf == -->
